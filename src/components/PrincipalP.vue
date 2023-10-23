@@ -1,4 +1,7 @@
 <template>
+  <header>
+    Juegos Malin
+  </header>
     <div class="container">
       <div id="diseno">
         <button  @click="$router.push('/games/ppt')" >
