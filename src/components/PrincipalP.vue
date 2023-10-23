@@ -1,6 +1,7 @@
 <template>
   <header>
     Juegos Malin Rama Prueba3
+    <H1>hOLA</H1>
   </header>
     <div class="container">
       <div id="diseno">
