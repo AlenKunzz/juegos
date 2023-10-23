@@ -1,6 +1,6 @@
 <template>
   <header>
-    Juegos Malin Rama Malin
+    Juegos Malin Rama Prueba3
   </header>
     <div class="container">
       <div id="diseno">
