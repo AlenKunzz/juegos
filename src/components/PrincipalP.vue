@@ -1,6 +1,7 @@
 <template>
   <h1>HOLA COMO ESTAS aaaaaaaaaaaaaaaaaaaa</h1>
     <H1>ADIOS</H1>
+    <h1>hola de nuevo</h1>
     <div class="container">
       <div id="diseno">
         <button  @click="$router.push('/games/ppt')" >
