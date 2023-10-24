@@ -1,5 +1,8 @@
 <template>
-  <h1>Modificado Rama ALEN GOD</h1>
+  <header>
+    Juegos Malin Rama Prueba3 esekien
+    <H1>hOLA</H1>
+  </header>
     <div class="container">
       <div id="diseno">
         <button  @click="$router.push('/games/ppt')" >
