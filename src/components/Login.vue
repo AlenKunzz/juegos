@@ -1,6 +1,7 @@
 
 <template>
   <div class="container">
+    <h1>archivo login modificado por esekien</h1>
     <div class="row">
       <div class="container">
         <img class="imagen" src="../assets/incog.png" alt="">
