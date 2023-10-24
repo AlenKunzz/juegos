@@ -1,8 +1,5 @@
 <template>
-  <header>
-    Juegos Malin Rama Prueba3 esekien
-    <H1>hOLA</H1>
-  </header>
+  <h1>HOLA COMO ESTAS </h1>
     <div class="container">
       <div id="diseno">
         <button  @click="$router.push('/games/ppt')" >
